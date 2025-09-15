@@ -1,0 +1,16 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 1.2rem;
+}
+
+
+body {
+    min-height: 100dvh;
+    min-width: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
